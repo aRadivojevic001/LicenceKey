@@ -1,0 +1,51 @@
+C:\Users\jacks\Downloads\USP-2020202140\RentalCar\LicenceKey.Infrastructure\bin\Debug\net7.0\LicenceKey.Infrastructure.deps.json
+C:\Users\jacks\Downloads\USP-2020202140\RentalCar\LicenceKey.Infrastructure\bin\Debug\net7.0\LicenceKey.Infrastructure.dll
+C:\Users\jacks\Downloads\USP-2020202140\RentalCar\LicenceKey.Infrastructure\bin\Debug\net7.0\LicenceKey.Infrastructure.pdb
+C:\Users\jacks\Downloads\USP-2020202140\RentalCar\LicenceKey.Infrastructure\bin\Debug\net7.0\LicenceKey.Application.dll
+C:\Users\jacks\Downloads\USP-2020202140\RentalCar\LicenceKey.Infrastructure\bin\Debug\net7.0\LicenceKey.Domain.dll
+C:\Users\jacks\Downloads\USP-2020202140\RentalCar\LicenceKey.Infrastructure\bin\Debug\net7.0\LicenceKey.Application.pdb
+C:\Users\jacks\Downloads\USP-2020202140\RentalCar\LicenceKey.Infrastructure\bin\Debug\net7.0\LicenceKey.Domain.pdb
+C:\Users\jacks\Downloads\USP-2020202140\RentalCar\LicenceKey.Infrastructure\obj\Debug\net7.0\LicenceKey.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\jacks\Downloads\USP-2020202140\RentalCar\LicenceKey.Infrastructure\obj\Debug\net7.0\LicenceKey.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacks\Downloads\USP-2020202140\RentalCar\LicenceKey.Infrastructure\obj\Debug\net7.0\LicenceKey.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\jacks\Downloads\USP-2020202140\RentalCar\LicenceKey.Infrastructure\obj\Debug\net7.0\LicenceKey.Infrastructure.AssemblyInfo.cs
+C:\Users\jacks\Downloads\USP-2020202140\RentalCar\LicenceKey.Infrastructure\obj\Debug\net7.0\LicenceKey.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\jacks\Downloads\USP-2020202140\RentalCar\LicenceKey.Infrastructure\obj\Debug\net7.0\LicenceKey.Infrastructure.csproj.CopyComplete
+C:\Users\jacks\Downloads\USP-2020202140\RentalCar\LicenceKey.Infrastructure\obj\Debug\net7.0\LicenceKey.Infrastructure.dll
+C:\Users\jacks\Downloads\USP-2020202140\RentalCar\LicenceKey.Infrastructure\obj\Debug\net7.0\refint\LicenceKey.Infrastructure.dll
+C:\Users\jacks\Downloads\USP-2020202140\RentalCar\LicenceKey.Infrastructure\obj\Debug\net7.0\LicenceKey.Infrastructure.pdb
+C:\Users\jacks\Downloads\USP-2020202140\RentalCar\LicenceKey.Infrastructure\obj\Debug\net7.0\ref\LicenceKey.Infrastructure.dll
+C:\Users\jacks\Downloads\USP-2020202140\LicenceKey\LicenceKey.Infrastructure\bin\Debug\net7.0\LicenceKey.Infrastructure.deps.json
+C:\Users\jacks\Downloads\USP-2020202140\LicenceKey\LicenceKey.Infrastructure\bin\Debug\net7.0\LicenceKey.Infrastructure.dll
+C:\Users\jacks\Downloads\USP-2020202140\LicenceKey\LicenceKey.Infrastructure\bin\Debug\net7.0\LicenceKey.Infrastructure.pdb
+C:\Users\jacks\Downloads\USP-2020202140\LicenceKey\LicenceKey.Infrastructure\bin\Debug\net7.0\LicenceKey.Application.dll
+C:\Users\jacks\Downloads\USP-2020202140\LicenceKey\LicenceKey.Infrastructure\bin\Debug\net7.0\LicenceKey.Domain.dll
+C:\Users\jacks\Downloads\USP-2020202140\LicenceKey\LicenceKey.Infrastructure\bin\Debug\net7.0\LicenceKey.Application.pdb
+C:\Users\jacks\Downloads\USP-2020202140\LicenceKey\LicenceKey.Infrastructure\bin\Debug\net7.0\LicenceKey.Domain.pdb
+C:\Users\jacks\Downloads\USP-2020202140\LicenceKey\LicenceKey.Infrastructure\obj\Debug\net7.0\LicenceKey.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\jacks\Downloads\USP-2020202140\LicenceKey\LicenceKey.Infrastructure\obj\Debug\net7.0\LicenceKey.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacks\Downloads\USP-2020202140\LicenceKey\LicenceKey.Infrastructure\obj\Debug\net7.0\LicenceKey.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\jacks\Downloads\USP-2020202140\LicenceKey\LicenceKey.Infrastructure\obj\Debug\net7.0\LicenceKey.Infrastructure.AssemblyInfo.cs
+C:\Users\jacks\Downloads\USP-2020202140\LicenceKey\LicenceKey.Infrastructure\obj\Debug\net7.0\LicenceKey.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\jacks\Downloads\USP-2020202140\LicenceKey\LicenceKey.Infrastructure\obj\Debug\net7.0\LicenceKey.Infrastructure.csproj.CopyComplete
+C:\Users\jacks\Downloads\USP-2020202140\LicenceKey\LicenceKey.Infrastructure\obj\Debug\net7.0\LicenceKey.Infrastructure.dll
+C:\Users\jacks\Downloads\USP-2020202140\LicenceKey\LicenceKey.Infrastructure\obj\Debug\net7.0\refint\LicenceKey.Infrastructure.dll
+C:\Users\jacks\Downloads\USP-2020202140\LicenceKey\LicenceKey.Infrastructure\obj\Debug\net7.0\LicenceKey.Infrastructure.pdb
+C:\Users\jacks\Downloads\USP-2020202140\LicenceKey\LicenceKey.Infrastructure\obj\Debug\net7.0\ref\LicenceKey.Infrastructure.dll
+C:\Users\jacks\Desktop\USP - 2020202140 Aleksandar Radivojevic\LicenceKey\LicenceKey.Infrastructure\bin\Debug\net7.0\LicenceKey.Infrastructure.deps.json
+C:\Users\jacks\Desktop\USP - 2020202140 Aleksandar Radivojevic\LicenceKey\LicenceKey.Infrastructure\bin\Debug\net7.0\LicenceKey.Infrastructure.dll
+C:\Users\jacks\Desktop\USP - 2020202140 Aleksandar Radivojevic\LicenceKey\LicenceKey.Infrastructure\bin\Debug\net7.0\LicenceKey.Infrastructure.pdb
+C:\Users\jacks\Desktop\USP - 2020202140 Aleksandar Radivojevic\LicenceKey\LicenceKey.Infrastructure\bin\Debug\net7.0\LicenceKey.Application.dll
+C:\Users\jacks\Desktop\USP - 2020202140 Aleksandar Radivojevic\LicenceKey\LicenceKey.Infrastructure\bin\Debug\net7.0\LicenceKey.Domain.dll
+C:\Users\jacks\Desktop\USP - 2020202140 Aleksandar Radivojevic\LicenceKey\LicenceKey.Infrastructure\bin\Debug\net7.0\LicenceKey.Application.pdb
+C:\Users\jacks\Desktop\USP - 2020202140 Aleksandar Radivojevic\LicenceKey\LicenceKey.Infrastructure\bin\Debug\net7.0\LicenceKey.Domain.pdb
+C:\Users\jacks\Desktop\USP - 2020202140 Aleksandar Radivojevic\LicenceKey\LicenceKey.Infrastructure\obj\Debug\net7.0\LicenceKey.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\jacks\Desktop\USP - 2020202140 Aleksandar Radivojevic\LicenceKey\LicenceKey.Infrastructure\obj\Debug\net7.0\LicenceKey.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacks\Desktop\USP - 2020202140 Aleksandar Radivojevic\LicenceKey\LicenceKey.Infrastructure\obj\Debug\net7.0\LicenceKey.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\jacks\Desktop\USP - 2020202140 Aleksandar Radivojevic\LicenceKey\LicenceKey.Infrastructure\obj\Debug\net7.0\LicenceKey.Infrastructure.AssemblyInfo.cs
+C:\Users\jacks\Desktop\USP - 2020202140 Aleksandar Radivojevic\LicenceKey\LicenceKey.Infrastructure\obj\Debug\net7.0\LicenceKey.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\jacks\Desktop\USP - 2020202140 Aleksandar Radivojevic\LicenceKey\LicenceKey.Infrastructure\obj\Debug\net7.0\LicenceKey.Infrastructure.csproj.CopyComplete
+C:\Users\jacks\Desktop\USP - 2020202140 Aleksandar Radivojevic\LicenceKey\LicenceKey.Infrastructure\obj\Debug\net7.0\LicenceKey.Infrastructure.dll
+C:\Users\jacks\Desktop\USP - 2020202140 Aleksandar Radivojevic\LicenceKey\LicenceKey.Infrastructure\obj\Debug\net7.0\refint\LicenceKey.Infrastructure.dll
+C:\Users\jacks\Desktop\USP - 2020202140 Aleksandar Radivojevic\LicenceKey\LicenceKey.Infrastructure\obj\Debug\net7.0\LicenceKey.Infrastructure.pdb
+C:\Users\jacks\Desktop\USP - 2020202140 Aleksandar Radivojevic\LicenceKey\LicenceKey.Infrastructure\obj\Debug\net7.0\ref\LicenceKey.Infrastructure.dll

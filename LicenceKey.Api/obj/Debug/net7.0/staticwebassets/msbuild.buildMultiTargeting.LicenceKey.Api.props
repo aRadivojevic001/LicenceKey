@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\LicenceKey.Api.props" />
+</Project>

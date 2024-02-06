@@ -1,0 +1,180 @@
+C:\Users\jacks\Downloads\USP-2020202140\RentalCar\LicenceKey.Api\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\jacks\Downloads\USP-2020202140\RentalCar\LicenceKey.Api\bin\Debug\net7.0\appsettings.json
+C:\Users\jacks\Downloads\USP-2020202140\RentalCar\LicenceKey.Api\bin\Debug\net7.0\LicenceKey.Api.exe
+C:\Users\jacks\Downloads\USP-2020202140\RentalCar\LicenceKey.Api\bin\Debug\net7.0\LicenceKey.Api.deps.json
+C:\Users\jacks\Downloads\USP-2020202140\RentalCar\LicenceKey.Api\bin\Debug\net7.0\LicenceKey.Api.runtimeconfig.json
+C:\Users\jacks\Downloads\USP-2020202140\RentalCar\LicenceKey.Api\bin\Debug\net7.0\LicenceKey.Api.dll
+C:\Users\jacks\Downloads\USP-2020202140\RentalCar\LicenceKey.Api\bin\Debug\net7.0\LicenceKey.Api.pdb
+C:\Users\jacks\Downloads\USP-2020202140\RentalCar\LicenceKey.Api\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\jacks\Downloads\USP-2020202140\RentalCar\LicenceKey.Api\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\jacks\Downloads\USP-2020202140\RentalCar\LicenceKey.Api\bin\Debug\net7.0\AWSSDK.Core.dll
+C:\Users\jacks\Downloads\USP-2020202140\RentalCar\LicenceKey.Api\bin\Debug\net7.0\AWSSDK.SecurityToken.dll
+C:\Users\jacks\Downloads\USP-2020202140\RentalCar\LicenceKey.Api\bin\Debug\net7.0\DnsClient.dll
+C:\Users\jacks\Downloads\USP-2020202140\RentalCar\LicenceKey.Api\bin\Debug\net7.0\FluentValidation.dll
+C:\Users\jacks\Downloads\USP-2020202140\RentalCar\LicenceKey.Api\bin\Debug\net7.0\FluentValidation.AspNetCore.dll
+C:\Users\jacks\Downloads\USP-2020202140\RentalCar\LicenceKey.Api\bin\Debug\net7.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\jacks\Downloads\USP-2020202140\RentalCar\LicenceKey.Api\bin\Debug\net7.0\MediatR.dll
+C:\Users\jacks\Downloads\USP-2020202140\RentalCar\LicenceKey.Api\bin\Debug\net7.0\MediatR.Contracts.dll
+C:\Users\jacks\Downloads\USP-2020202140\RentalCar\LicenceKey.Api\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\jacks\Downloads\USP-2020202140\RentalCar\LicenceKey.Api\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\jacks\Downloads\USP-2020202140\RentalCar\LicenceKey.Api\bin\Debug\net7.0\MongoDB.Bson.dll
+C:\Users\jacks\Downloads\USP-2020202140\RentalCar\LicenceKey.Api\bin\Debug\net7.0\MongoDB.Driver.dll
+C:\Users\jacks\Downloads\USP-2020202140\RentalCar\LicenceKey.Api\bin\Debug\net7.0\MongoDB.Driver.Core.dll
+C:\Users\jacks\Downloads\USP-2020202140\RentalCar\LicenceKey.Api\bin\Debug\net7.0\MongoDB.Entities.dll
+C:\Users\jacks\Downloads\USP-2020202140\RentalCar\LicenceKey.Api\bin\Debug\net7.0\MongoDB.Libmongocrypt.dll
+C:\Users\jacks\Downloads\USP-2020202140\RentalCar\LicenceKey.Api\bin\Debug\net7.0\SharpCompress.dll
+C:\Users\jacks\Downloads\USP-2020202140\RentalCar\LicenceKey.Api\bin\Debug\net7.0\Snappier.dll
+C:\Users\jacks\Downloads\USP-2020202140\RentalCar\LicenceKey.Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\jacks\Downloads\USP-2020202140\RentalCar\LicenceKey.Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\jacks\Downloads\USP-2020202140\RentalCar\LicenceKey.Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\jacks\Downloads\USP-2020202140\RentalCar\LicenceKey.Api\bin\Debug\net7.0\ZstdSharp.dll
+C:\Users\jacks\Downloads\USP-2020202140\RentalCar\LicenceKey.Api\bin\Debug\net7.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\jacks\Downloads\USP-2020202140\RentalCar\LicenceKey.Api\bin\Debug\net7.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\jacks\Downloads\USP-2020202140\RentalCar\LicenceKey.Api\bin\Debug\net7.0\runtimes\win\native\mongocrypt.dll
+C:\Users\jacks\Downloads\USP-2020202140\RentalCar\LicenceKey.Api\bin\Debug\net7.0\LicenceKey.Application.dll
+C:\Users\jacks\Downloads\USP-2020202140\RentalCar\LicenceKey.Api\bin\Debug\net7.0\LicenceKey.Domain.dll
+C:\Users\jacks\Downloads\USP-2020202140\RentalCar\LicenceKey.Api\bin\Debug\net7.0\LicenceKey.Infrastructure.dll
+C:\Users\jacks\Downloads\USP-2020202140\RentalCar\LicenceKey.Api\bin\Debug\net7.0\LicenceKey.Application.pdb
+C:\Users\jacks\Downloads\USP-2020202140\RentalCar\LicenceKey.Api\bin\Debug\net7.0\LicenceKey.Infrastructure.pdb
+C:\Users\jacks\Downloads\USP-2020202140\RentalCar\LicenceKey.Api\bin\Debug\net7.0\LicenceKey.Domain.pdb
+C:\Users\jacks\Downloads\USP-2020202140\RentalCar\LicenceKey.Api\obj\Debug\net7.0\LicenceKey.Api.csproj.AssemblyReference.cache
+C:\Users\jacks\Downloads\USP-2020202140\RentalCar\LicenceKey.Api\obj\Debug\net7.0\LicenceKey.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacks\Downloads\USP-2020202140\RentalCar\LicenceKey.Api\obj\Debug\net7.0\LicenceKey.Api.AssemblyInfoInputs.cache
+C:\Users\jacks\Downloads\USP-2020202140\RentalCar\LicenceKey.Api\obj\Debug\net7.0\LicenceKey.Api.AssemblyInfo.cs
+C:\Users\jacks\Downloads\USP-2020202140\RentalCar\LicenceKey.Api\obj\Debug\net7.0\LicenceKey.Api.csproj.CoreCompileInputs.cache
+C:\Users\jacks\Downloads\USP-2020202140\RentalCar\LicenceKey.Api\obj\Debug\net7.0\LicenceKey.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\jacks\Downloads\USP-2020202140\RentalCar\LicenceKey.Api\obj\Debug\net7.0\LicenceKey.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jacks\Downloads\USP-2020202140\RentalCar\LicenceKey.Api\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\jacks\Downloads\USP-2020202140\RentalCar\LicenceKey.Api\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\jacks\Downloads\USP-2020202140\RentalCar\LicenceKey.Api\obj\Debug\net7.0\staticwebassets\msbuild.LicenceKey.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\jacks\Downloads\USP-2020202140\RentalCar\LicenceKey.Api\obj\Debug\net7.0\staticwebassets\msbuild.build.LicenceKey.Api.props
+C:\Users\jacks\Downloads\USP-2020202140\RentalCar\LicenceKey.Api\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.LicenceKey.Api.props
+C:\Users\jacks\Downloads\USP-2020202140\RentalCar\LicenceKey.Api\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.LicenceKey.Api.props
+C:\Users\jacks\Downloads\USP-2020202140\RentalCar\LicenceKey.Api\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\jacks\Downloads\USP-2020202140\RentalCar\LicenceKey.Api\obj\Debug\net7.0\scopedcss\bundle\LicenceKey.Api.styles.css
+C:\Users\jacks\Downloads\USP-2020202140\RentalCar\LicenceKey.Api\obj\Debug\net7.0\LicenceKey.Api.csproj.CopyComplete
+C:\Users\jacks\Downloads\USP-2020202140\RentalCar\LicenceKey.Api\obj\Debug\net7.0\LicenceKey.Api.dll
+C:\Users\jacks\Downloads\USP-2020202140\RentalCar\LicenceKey.Api\obj\Debug\net7.0\refint\LicenceKey.Api.dll
+C:\Users\jacks\Downloads\USP-2020202140\RentalCar\LicenceKey.Api\obj\Debug\net7.0\LicenceKey.Api.pdb
+C:\Users\jacks\Downloads\USP-2020202140\RentalCar\LicenceKey.Api\obj\Debug\net7.0\LicenceKey.Api.genruntimeconfig.cache
+C:\Users\jacks\Downloads\USP-2020202140\RentalCar\LicenceKey.Api\obj\Debug\net7.0\ref\LicenceKey.Api.dll
+C:\Users\jacks\Downloads\USP-2020202140\LicenceKey\LicenceKey.Api\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\jacks\Downloads\USP-2020202140\LicenceKey\LicenceKey.Api\bin\Debug\net7.0\appsettings.json
+C:\Users\jacks\Downloads\USP-2020202140\LicenceKey\LicenceKey.Api\bin\Debug\net7.0\LicenceKey.Api.exe
+C:\Users\jacks\Downloads\USP-2020202140\LicenceKey\LicenceKey.Api\bin\Debug\net7.0\LicenceKey.Api.deps.json
+C:\Users\jacks\Downloads\USP-2020202140\LicenceKey\LicenceKey.Api\bin\Debug\net7.0\LicenceKey.Api.runtimeconfig.json
+C:\Users\jacks\Downloads\USP-2020202140\LicenceKey\LicenceKey.Api\bin\Debug\net7.0\LicenceKey.Api.dll
+C:\Users\jacks\Downloads\USP-2020202140\LicenceKey\LicenceKey.Api\bin\Debug\net7.0\LicenceKey.Api.pdb
+C:\Users\jacks\Downloads\USP-2020202140\LicenceKey\LicenceKey.Api\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\jacks\Downloads\USP-2020202140\LicenceKey\LicenceKey.Api\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\jacks\Downloads\USP-2020202140\LicenceKey\LicenceKey.Api\bin\Debug\net7.0\AWSSDK.Core.dll
+C:\Users\jacks\Downloads\USP-2020202140\LicenceKey\LicenceKey.Api\bin\Debug\net7.0\AWSSDK.SecurityToken.dll
+C:\Users\jacks\Downloads\USP-2020202140\LicenceKey\LicenceKey.Api\bin\Debug\net7.0\DnsClient.dll
+C:\Users\jacks\Downloads\USP-2020202140\LicenceKey\LicenceKey.Api\bin\Debug\net7.0\FluentValidation.dll
+C:\Users\jacks\Downloads\USP-2020202140\LicenceKey\LicenceKey.Api\bin\Debug\net7.0\FluentValidation.AspNetCore.dll
+C:\Users\jacks\Downloads\USP-2020202140\LicenceKey\LicenceKey.Api\bin\Debug\net7.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\jacks\Downloads\USP-2020202140\LicenceKey\LicenceKey.Api\bin\Debug\net7.0\MediatR.dll
+C:\Users\jacks\Downloads\USP-2020202140\LicenceKey\LicenceKey.Api\bin\Debug\net7.0\MediatR.Contracts.dll
+C:\Users\jacks\Downloads\USP-2020202140\LicenceKey\LicenceKey.Api\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\jacks\Downloads\USP-2020202140\LicenceKey\LicenceKey.Api\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\jacks\Downloads\USP-2020202140\LicenceKey\LicenceKey.Api\bin\Debug\net7.0\MongoDB.Bson.dll
+C:\Users\jacks\Downloads\USP-2020202140\LicenceKey\LicenceKey.Api\bin\Debug\net7.0\MongoDB.Driver.dll
+C:\Users\jacks\Downloads\USP-2020202140\LicenceKey\LicenceKey.Api\bin\Debug\net7.0\MongoDB.Driver.Core.dll
+C:\Users\jacks\Downloads\USP-2020202140\LicenceKey\LicenceKey.Api\bin\Debug\net7.0\MongoDB.Entities.dll
+C:\Users\jacks\Downloads\USP-2020202140\LicenceKey\LicenceKey.Api\bin\Debug\net7.0\MongoDB.Libmongocrypt.dll
+C:\Users\jacks\Downloads\USP-2020202140\LicenceKey\LicenceKey.Api\bin\Debug\net7.0\SharpCompress.dll
+C:\Users\jacks\Downloads\USP-2020202140\LicenceKey\LicenceKey.Api\bin\Debug\net7.0\Snappier.dll
+C:\Users\jacks\Downloads\USP-2020202140\LicenceKey\LicenceKey.Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\jacks\Downloads\USP-2020202140\LicenceKey\LicenceKey.Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\jacks\Downloads\USP-2020202140\LicenceKey\LicenceKey.Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\jacks\Downloads\USP-2020202140\LicenceKey\LicenceKey.Api\bin\Debug\net7.0\ZstdSharp.dll
+C:\Users\jacks\Downloads\USP-2020202140\LicenceKey\LicenceKey.Api\bin\Debug\net7.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\jacks\Downloads\USP-2020202140\LicenceKey\LicenceKey.Api\bin\Debug\net7.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\jacks\Downloads\USP-2020202140\LicenceKey\LicenceKey.Api\bin\Debug\net7.0\runtimes\win\native\mongocrypt.dll
+C:\Users\jacks\Downloads\USP-2020202140\LicenceKey\LicenceKey.Api\bin\Debug\net7.0\LicenceKey.Application.dll
+C:\Users\jacks\Downloads\USP-2020202140\LicenceKey\LicenceKey.Api\bin\Debug\net7.0\LicenceKey.Domain.dll
+C:\Users\jacks\Downloads\USP-2020202140\LicenceKey\LicenceKey.Api\bin\Debug\net7.0\LicenceKey.Infrastructure.dll
+C:\Users\jacks\Downloads\USP-2020202140\LicenceKey\LicenceKey.Api\bin\Debug\net7.0\LicenceKey.Application.pdb
+C:\Users\jacks\Downloads\USP-2020202140\LicenceKey\LicenceKey.Api\bin\Debug\net7.0\LicenceKey.Infrastructure.pdb
+C:\Users\jacks\Downloads\USP-2020202140\LicenceKey\LicenceKey.Api\bin\Debug\net7.0\LicenceKey.Domain.pdb
+C:\Users\jacks\Downloads\USP-2020202140\LicenceKey\LicenceKey.Api\obj\Debug\net7.0\LicenceKey.Api.csproj.AssemblyReference.cache
+C:\Users\jacks\Downloads\USP-2020202140\LicenceKey\LicenceKey.Api\obj\Debug\net7.0\LicenceKey.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacks\Downloads\USP-2020202140\LicenceKey\LicenceKey.Api\obj\Debug\net7.0\LicenceKey.Api.AssemblyInfoInputs.cache
+C:\Users\jacks\Downloads\USP-2020202140\LicenceKey\LicenceKey.Api\obj\Debug\net7.0\LicenceKey.Api.AssemblyInfo.cs
+C:\Users\jacks\Downloads\USP-2020202140\LicenceKey\LicenceKey.Api\obj\Debug\net7.0\LicenceKey.Api.csproj.CoreCompileInputs.cache
+C:\Users\jacks\Downloads\USP-2020202140\LicenceKey\LicenceKey.Api\obj\Debug\net7.0\LicenceKey.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\jacks\Downloads\USP-2020202140\LicenceKey\LicenceKey.Api\obj\Debug\net7.0\LicenceKey.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jacks\Downloads\USP-2020202140\LicenceKey\LicenceKey.Api\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\jacks\Downloads\USP-2020202140\LicenceKey\LicenceKey.Api\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\jacks\Downloads\USP-2020202140\LicenceKey\LicenceKey.Api\obj\Debug\net7.0\staticwebassets\msbuild.LicenceKey.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\jacks\Downloads\USP-2020202140\LicenceKey\LicenceKey.Api\obj\Debug\net7.0\staticwebassets\msbuild.build.LicenceKey.Api.props
+C:\Users\jacks\Downloads\USP-2020202140\LicenceKey\LicenceKey.Api\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.LicenceKey.Api.props
+C:\Users\jacks\Downloads\USP-2020202140\LicenceKey\LicenceKey.Api\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.LicenceKey.Api.props
+C:\Users\jacks\Downloads\USP-2020202140\LicenceKey\LicenceKey.Api\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\jacks\Downloads\USP-2020202140\LicenceKey\LicenceKey.Api\obj\Debug\net7.0\scopedcss\bundle\LicenceKey.Api.styles.css
+C:\Users\jacks\Downloads\USP-2020202140\LicenceKey\LicenceKey.Api\obj\Debug\net7.0\LicenceKey.Api.csproj.CopyComplete
+C:\Users\jacks\Downloads\USP-2020202140\LicenceKey\LicenceKey.Api\obj\Debug\net7.0\LicenceKey.Api.dll
+C:\Users\jacks\Downloads\USP-2020202140\LicenceKey\LicenceKey.Api\obj\Debug\net7.0\refint\LicenceKey.Api.dll
+C:\Users\jacks\Downloads\USP-2020202140\LicenceKey\LicenceKey.Api\obj\Debug\net7.0\LicenceKey.Api.pdb
+C:\Users\jacks\Downloads\USP-2020202140\LicenceKey\LicenceKey.Api\obj\Debug\net7.0\LicenceKey.Api.genruntimeconfig.cache
+C:\Users\jacks\Downloads\USP-2020202140\LicenceKey\LicenceKey.Api\obj\Debug\net7.0\ref\LicenceKey.Api.dll
+C:\Users\jacks\Desktop\USP - 2020202140 Aleksandar Radivojevic\LicenceKey\LicenceKey.Api\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\jacks\Desktop\USP - 2020202140 Aleksandar Radivojevic\LicenceKey\LicenceKey.Api\bin\Debug\net7.0\appsettings.json
+C:\Users\jacks\Desktop\USP - 2020202140 Aleksandar Radivojevic\LicenceKey\LicenceKey.Api\bin\Debug\net7.0\LicenceKey.Api.exe
+C:\Users\jacks\Desktop\USP - 2020202140 Aleksandar Radivojevic\LicenceKey\LicenceKey.Api\bin\Debug\net7.0\LicenceKey.Api.deps.json
+C:\Users\jacks\Desktop\USP - 2020202140 Aleksandar Radivojevic\LicenceKey\LicenceKey.Api\bin\Debug\net7.0\LicenceKey.Api.runtimeconfig.json
+C:\Users\jacks\Desktop\USP - 2020202140 Aleksandar Radivojevic\LicenceKey\LicenceKey.Api\bin\Debug\net7.0\LicenceKey.Api.dll
+C:\Users\jacks\Desktop\USP - 2020202140 Aleksandar Radivojevic\LicenceKey\LicenceKey.Api\bin\Debug\net7.0\LicenceKey.Api.pdb
+C:\Users\jacks\Desktop\USP - 2020202140 Aleksandar Radivojevic\LicenceKey\LicenceKey.Api\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\jacks\Desktop\USP - 2020202140 Aleksandar Radivojevic\LicenceKey\LicenceKey.Api\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\jacks\Desktop\USP - 2020202140 Aleksandar Radivojevic\LicenceKey\LicenceKey.Api\bin\Debug\net7.0\AWSSDK.Core.dll
+C:\Users\jacks\Desktop\USP - 2020202140 Aleksandar Radivojevic\LicenceKey\LicenceKey.Api\bin\Debug\net7.0\AWSSDK.SecurityToken.dll
+C:\Users\jacks\Desktop\USP - 2020202140 Aleksandar Radivojevic\LicenceKey\LicenceKey.Api\bin\Debug\net7.0\DnsClient.dll
+C:\Users\jacks\Desktop\USP - 2020202140 Aleksandar Radivojevic\LicenceKey\LicenceKey.Api\bin\Debug\net7.0\FluentValidation.dll
+C:\Users\jacks\Desktop\USP - 2020202140 Aleksandar Radivojevic\LicenceKey\LicenceKey.Api\bin\Debug\net7.0\FluentValidation.AspNetCore.dll
+C:\Users\jacks\Desktop\USP - 2020202140 Aleksandar Radivojevic\LicenceKey\LicenceKey.Api\bin\Debug\net7.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\jacks\Desktop\USP - 2020202140 Aleksandar Radivojevic\LicenceKey\LicenceKey.Api\bin\Debug\net7.0\MediatR.dll
+C:\Users\jacks\Desktop\USP - 2020202140 Aleksandar Radivojevic\LicenceKey\LicenceKey.Api\bin\Debug\net7.0\MediatR.Contracts.dll
+C:\Users\jacks\Desktop\USP - 2020202140 Aleksandar Radivojevic\LicenceKey\LicenceKey.Api\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\jacks\Desktop\USP - 2020202140 Aleksandar Radivojevic\LicenceKey\LicenceKey.Api\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\jacks\Desktop\USP - 2020202140 Aleksandar Radivojevic\LicenceKey\LicenceKey.Api\bin\Debug\net7.0\MongoDB.Bson.dll
+C:\Users\jacks\Desktop\USP - 2020202140 Aleksandar Radivojevic\LicenceKey\LicenceKey.Api\bin\Debug\net7.0\MongoDB.Driver.dll
+C:\Users\jacks\Desktop\USP - 2020202140 Aleksandar Radivojevic\LicenceKey\LicenceKey.Api\bin\Debug\net7.0\MongoDB.Driver.Core.dll
+C:\Users\jacks\Desktop\USP - 2020202140 Aleksandar Radivojevic\LicenceKey\LicenceKey.Api\bin\Debug\net7.0\MongoDB.Entities.dll
+C:\Users\jacks\Desktop\USP - 2020202140 Aleksandar Radivojevic\LicenceKey\LicenceKey.Api\bin\Debug\net7.0\MongoDB.Libmongocrypt.dll
+C:\Users\jacks\Desktop\USP - 2020202140 Aleksandar Radivojevic\LicenceKey\LicenceKey.Api\bin\Debug\net7.0\SharpCompress.dll
+C:\Users\jacks\Desktop\USP - 2020202140 Aleksandar Radivojevic\LicenceKey\LicenceKey.Api\bin\Debug\net7.0\Snappier.dll
+C:\Users\jacks\Desktop\USP - 2020202140 Aleksandar Radivojevic\LicenceKey\LicenceKey.Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\jacks\Desktop\USP - 2020202140 Aleksandar Radivojevic\LicenceKey\LicenceKey.Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\jacks\Desktop\USP - 2020202140 Aleksandar Radivojevic\LicenceKey\LicenceKey.Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\jacks\Desktop\USP - 2020202140 Aleksandar Radivojevic\LicenceKey\LicenceKey.Api\bin\Debug\net7.0\ZstdSharp.dll
+C:\Users\jacks\Desktop\USP - 2020202140 Aleksandar Radivojevic\LicenceKey\LicenceKey.Api\bin\Debug\net7.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\jacks\Desktop\USP - 2020202140 Aleksandar Radivojevic\LicenceKey\LicenceKey.Api\bin\Debug\net7.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\jacks\Desktop\USP - 2020202140 Aleksandar Radivojevic\LicenceKey\LicenceKey.Api\bin\Debug\net7.0\runtimes\win\native\mongocrypt.dll
+C:\Users\jacks\Desktop\USP - 2020202140 Aleksandar Radivojevic\LicenceKey\LicenceKey.Api\bin\Debug\net7.0\LicenceKey.Application.dll
+C:\Users\jacks\Desktop\USP - 2020202140 Aleksandar Radivojevic\LicenceKey\LicenceKey.Api\bin\Debug\net7.0\LicenceKey.Domain.dll
+C:\Users\jacks\Desktop\USP - 2020202140 Aleksandar Radivojevic\LicenceKey\LicenceKey.Api\bin\Debug\net7.0\LicenceKey.Infrastructure.dll
+C:\Users\jacks\Desktop\USP - 2020202140 Aleksandar Radivojevic\LicenceKey\LicenceKey.Api\bin\Debug\net7.0\LicenceKey.Application.pdb
+C:\Users\jacks\Desktop\USP - 2020202140 Aleksandar Radivojevic\LicenceKey\LicenceKey.Api\bin\Debug\net7.0\LicenceKey.Infrastructure.pdb
+C:\Users\jacks\Desktop\USP - 2020202140 Aleksandar Radivojevic\LicenceKey\LicenceKey.Api\bin\Debug\net7.0\LicenceKey.Domain.pdb
+C:\Users\jacks\Desktop\USP - 2020202140 Aleksandar Radivojevic\LicenceKey\LicenceKey.Api\obj\Debug\net7.0\LicenceKey.Api.csproj.AssemblyReference.cache
+C:\Users\jacks\Desktop\USP - 2020202140 Aleksandar Radivojevic\LicenceKey\LicenceKey.Api\obj\Debug\net7.0\LicenceKey.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacks\Desktop\USP - 2020202140 Aleksandar Radivojevic\LicenceKey\LicenceKey.Api\obj\Debug\net7.0\LicenceKey.Api.AssemblyInfoInputs.cache
+C:\Users\jacks\Desktop\USP - 2020202140 Aleksandar Radivojevic\LicenceKey\LicenceKey.Api\obj\Debug\net7.0\LicenceKey.Api.AssemblyInfo.cs
+C:\Users\jacks\Desktop\USP - 2020202140 Aleksandar Radivojevic\LicenceKey\LicenceKey.Api\obj\Debug\net7.0\LicenceKey.Api.csproj.CoreCompileInputs.cache
+C:\Users\jacks\Desktop\USP - 2020202140 Aleksandar Radivojevic\LicenceKey\LicenceKey.Api\obj\Debug\net7.0\LicenceKey.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\jacks\Desktop\USP - 2020202140 Aleksandar Radivojevic\LicenceKey\LicenceKey.Api\obj\Debug\net7.0\LicenceKey.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jacks\Desktop\USP - 2020202140 Aleksandar Radivojevic\LicenceKey\LicenceKey.Api\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\jacks\Desktop\USP - 2020202140 Aleksandar Radivojevic\LicenceKey\LicenceKey.Api\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\jacks\Desktop\USP - 2020202140 Aleksandar Radivojevic\LicenceKey\LicenceKey.Api\obj\Debug\net7.0\staticwebassets\msbuild.LicenceKey.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\jacks\Desktop\USP - 2020202140 Aleksandar Radivojevic\LicenceKey\LicenceKey.Api\obj\Debug\net7.0\staticwebassets\msbuild.build.LicenceKey.Api.props
+C:\Users\jacks\Desktop\USP - 2020202140 Aleksandar Radivojevic\LicenceKey\LicenceKey.Api\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.LicenceKey.Api.props
+C:\Users\jacks\Desktop\USP - 2020202140 Aleksandar Radivojevic\LicenceKey\LicenceKey.Api\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.LicenceKey.Api.props
+C:\Users\jacks\Desktop\USP - 2020202140 Aleksandar Radivojevic\LicenceKey\LicenceKey.Api\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\jacks\Desktop\USP - 2020202140 Aleksandar Radivojevic\LicenceKey\LicenceKey.Api\obj\Debug\net7.0\scopedcss\bundle\LicenceKey.Api.styles.css
+C:\Users\jacks\Desktop\USP - 2020202140 Aleksandar Radivojevic\LicenceKey\LicenceKey.Api\obj\Debug\net7.0\LicenceKey.Api.csproj.CopyComplete
+C:\Users\jacks\Desktop\USP - 2020202140 Aleksandar Radivojevic\LicenceKey\LicenceKey.Api\obj\Debug\net7.0\LicenceKey.Api.dll
+C:\Users\jacks\Desktop\USP - 2020202140 Aleksandar Radivojevic\LicenceKey\LicenceKey.Api\obj\Debug\net7.0\refint\LicenceKey.Api.dll
+C:\Users\jacks\Desktop\USP - 2020202140 Aleksandar Radivojevic\LicenceKey\LicenceKey.Api\obj\Debug\net7.0\LicenceKey.Api.pdb
+C:\Users\jacks\Desktop\USP - 2020202140 Aleksandar Radivojevic\LicenceKey\LicenceKey.Api\obj\Debug\net7.0\LicenceKey.Api.genruntimeconfig.cache
+C:\Users\jacks\Desktop\USP - 2020202140 Aleksandar Radivojevic\LicenceKey\LicenceKey.Api\obj\Debug\net7.0\ref\LicenceKey.Api.dll
