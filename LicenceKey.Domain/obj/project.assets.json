@@ -899,11 +899,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jacks\\Desktop\\USP - 2020202140 Aleksandar Radivojevic\\LicenceKey\\LicenceKey.Domain\\LicenceKey.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\jacks\\Desktop\\Aleksandar Radivojevic 2020202140\\Key Shop\\LicenceKey\\LicenceKey.Domain\\LicenceKey.Domain.csproj",
       "projectName": "LicenceKey.Domain",
-      "projectPath": "C:\\Users\\jacks\\Desktop\\USP - 2020202140 Aleksandar Radivojevic\\LicenceKey\\LicenceKey.Domain\\LicenceKey.Domain.csproj",
+      "projectPath": "C:\\Users\\jacks\\Desktop\\Aleksandar Radivojevic 2020202140\\Key Shop\\LicenceKey\\LicenceKey.Domain\\LicenceKey.Domain.csproj",
       "packagesPath": "C:\\Users\\jacks\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jacks\\Desktop\\USP - 2020202140 Aleksandar Radivojevic\\LicenceKey\\LicenceKey.Domain\\obj\\",
+      "outputPath": "C:\\Users\\jacks\\Desktop\\Aleksandar Radivojevic 2020202140\\Key Shop\\LicenceKey\\LicenceKey.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jacks\\AppData\\Roaming\\NuGet\\NuGet.Config"

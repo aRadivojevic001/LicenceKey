@@ -1,29 +1,37 @@
-﻿namespace LicenceKey.Domain.Entities;
+﻿using MongoDB.Entities;
 
-public class User
+namespace LicenceKey.Domain.Entities;
+
+[Collection("Users")]
+public class User : BaseEntity
 {
+    public User(string username, bool active, string password, string email, decimal balance, decimal moneySpend)
+    {
+        Username = username;
+        Active = active;
+        Password = password;
+        Email = email;
+        Balance = balance;
+        MoneySpend = moneySpend;
+    }
+
     public User()
     {
         
     }
 
-    public User(string requestUsername, string requestPassword, string requestEmail, decimal requestBalance, string requestStatus)
-    {
-        throw new NotImplementedException();
-    }
-
-
-    public int UserID { get; set; }
     
+
+
     public string Username { get; set; }
     
     public string Password { get; set; }
     
     public string Email { get; set; }
     
-    public decimal Balance { get; set; }
+    public decimal Balance { get;  set; }
     
-    public string Status { get; set; }
+    public decimal MoneySpend { get; set; }
     
-    //Lista licenci
+    
 }

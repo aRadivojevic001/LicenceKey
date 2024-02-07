@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Y4oA/LwKvtSGBlQ14G49TZ18U2yzZOADIoxOEMMypzCTiLH4FWK+T/qIr9pJdHVnOHQT8+eoRJEQMB0ioZcxFg==",
+  "dgSpecHash": "HLyuqqcb3D5KeYG1sIdtfbaIM1kvBgcKAL4MWa74qpaFZGxyAczxW17UlDcMnya7kumpDce+rNnANZEjj/hMPg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jacks\\Desktop\\USP - 2020202140 Aleksandar Radivojevic\\LicenceKey\\LicenceKey.Domain\\LicenceKey.Domain.csproj",
+  "projectFilePath": "C:\\Users\\jacks\\Desktop\\Aleksandar Radivojevic 2020202140\\Key Shop\\LicenceKey\\LicenceKey.Domain\\LicenceKey.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jacks\\.nuget\\packages\\awssdk.core\\3.7.100.14\\awssdk.core.3.7.100.14.nupkg.sha512",
     "C:\\Users\\jacks\\.nuget\\packages\\awssdk.securitytoken\\3.7.100.14\\awssdk.securitytoken.3.7.100.14.nupkg.sha512",

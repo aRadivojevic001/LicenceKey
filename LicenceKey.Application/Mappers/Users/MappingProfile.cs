@@ -7,6 +7,8 @@ public class MappingProfile : Profile
 {
     public MappingProfile()
     {
-       
+       //Definisanje mape 
+       CreateMap<CreateUserDto, Domain.Entities.User>().ReverseMap();
+       CreateMap<UpdateUserDto, Domain.Entities.User>().ReverseMap();
     }
 }

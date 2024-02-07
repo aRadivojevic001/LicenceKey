@@ -2,22 +2,20 @@
 
 namespace LicenceKey.Domain.Entities;
 
-[Collection("vendors")]
+[Collection("Vendors")]
 public class Vendor : BaseEntity
 {
     
     [Field("name")]
     public string Name { get; set; }   
     
-    [Field("year_production")]
-    public int YearProduction { get; private set; }
-    
-    public Vendor(string name)
+    public Vendor(string name, bool active)
     {
         Name = name;
+        Active = active;
     }
 
-    private Vendor()
+    public Vendor()
     {
         
     }

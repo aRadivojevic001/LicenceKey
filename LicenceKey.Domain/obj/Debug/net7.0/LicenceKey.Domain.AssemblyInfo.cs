@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LicenceKey.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+84d0f9ec4ef3bf5e8a9bcc40e28c56e57818cf06")]
 [assembly: System.Reflection.AssemblyProductAttribute("LicenceKey.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LicenceKey.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

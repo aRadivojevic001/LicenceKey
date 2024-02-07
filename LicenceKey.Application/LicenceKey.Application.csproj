@@ -19,4 +19,8 @@
       <ProjectReference Include="..\LicenceKey.Domain\LicenceKey.Domain.csproj" />
     </ItemGroup>
 
+    <ItemGroup>
+      <Folder Include="Common\Validators\Keys\" />
+    </ItemGroup>
+
 </Project>

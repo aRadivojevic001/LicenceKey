@@ -8,6 +8,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LicenceKey.Domain", "Licenc
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LicenceKey.Infrastructure", "LicenceKey.Infrastructure\LicenceKey.Infrastructure.csproj", "{C09B55B6-6C9B-41E6-84CC-C48C472E7C23}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{E0ADE267-24B9-42B6-A3F7-08638BF93688}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LicenceKey.BaseTests", "LicenceKey.BaseTests\LicenceKey.BaseTests.csproj", "{A809F7B5-5658-4760-BEF6-5C5AA37388AE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LicenceKey.UnitTests", "LicenceKey.UnitTests\LicenceKey.UnitTests.csproj", "{28050B61-AC0A-4A6E-94FB-3E46C2DE40B0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +36,17 @@ Global
 		{C09B55B6-6C9B-41E6-84CC-C48C472E7C23}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C09B55B6-6C9B-41E6-84CC-C48C472E7C23}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C09B55B6-6C9B-41E6-84CC-C48C472E7C23}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A809F7B5-5658-4760-BEF6-5C5AA37388AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A809F7B5-5658-4760-BEF6-5C5AA37388AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A809F7B5-5658-4760-BEF6-5C5AA37388AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A809F7B5-5658-4760-BEF6-5C5AA37388AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28050B61-AC0A-4A6E-94FB-3E46C2DE40B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28050B61-AC0A-4A6E-94FB-3E46C2DE40B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28050B61-AC0A-4A6E-94FB-3E46C2DE40B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28050B61-AC0A-4A6E-94FB-3E46C2DE40B0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{A809F7B5-5658-4760-BEF6-5C5AA37388AE} = {E0ADE267-24B9-42B6-A3F7-08638BF93688}
+		{28050B61-AC0A-4A6E-94FB-3E46C2DE40B0} = {E0ADE267-24B9-42B6-A3F7-08638BF93688}
 	EndGlobalSection
 EndGlobal

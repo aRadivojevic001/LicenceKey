@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YlH1GIE8JugmB4aa16/KNcAZ4hUSfpGv/+X6/m5BGG8k+8GUrSPGmCTKbd2TMY5Uuz0TXR4NRUrt3whZ5aS2vA==",
+  "dgSpecHash": "2b/RNLu/JOwqLIE2MQkXKCg8GCnUIyTi5Pmwvu7CID3JXjPsQL+VxnzhEndP2WWnnAVj2Ag5bMmBF1aGnRPVWw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jacks\\Desktop\\USP - 2020202140 Aleksandar Radivojevic\\LicenceKey\\LicenceKey.Infrastructure\\LicenceKey.Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\jacks\\Desktop\\Aleksandar Radivojevic 2020202140\\Key Shop\\LicenceKey\\LicenceKey.Infrastructure\\LicenceKey.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jacks\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\jacks\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

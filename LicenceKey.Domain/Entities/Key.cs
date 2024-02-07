@@ -6,43 +6,55 @@ namespace LicenceKey.Domain.Entities;
 public class Key : BaseEntity
 {
     
-    public Key(string name)
-    {
-        Name = name;
-    }
+    // public Key(string name, bool active ,string keyType, decimal price, string status, string category)
+    // {
+    //     Name = name;
+    //     Active = active;
+    //     KeyType = keyType;
+    //     Price = price;
+    //     Status = status;
+    //     Category = category;
+    //     this.InitOneToMany(() => Users);
+    // }
 
-    private Key()
+    public Key()
     {
-        
+        this.InitOneToMany(() => Users);
+    }
+    public Key AddVendor(One<Vendor> vendor)
+    {
+        Vendor = vendor;
+
+        return this;
+    }
+    
+    public Key AddUser(Many<User> users)
+    {
+        Users = users;
+
+        return this;
     }
     
 
     [Field("name")]
-    public string Name { get; private set; }
+    public string Name { get;  set; }
     
     [Field("keyType")]
-    public string KeyType { get; private set; }
+    public string KeyType { get; set; }
 
     [Field("price")]
-    public decimal Price { get; private set; }
+    public decimal Price { get;  set; }
     
     [Field("status")]
-    public string Status { get; private set; } // Dostupan, rezervisan, prodat
-
-    [Field("additionalInfo")]
-    public string AdditionalInfo { get; private set; } // Informacije o ključu (samo vidljive nakon kupovine)
-   
+    public string Status { get;  set; } // Dostupan, rezervisan, prodat
+    
     [Field("category")]
-    public string Category { get; private set; }
+    public string Category { get; set; }
     
     [Field("vendorId")]
-    public string VendorId { get; private set; } // ID prodavca koji je postavio ključ
+    public One<Vendor> Vendor { get; set; }// ID prodavca koji je postavio ključ
     
-    //Nisam dodao
-    // [Field("dateAdded")]
-    // public DateTime DateAdded { get; set; } 
-    // [Field("expiryDate")]
-    // public DateTime ExpiryDate { get; set; }
-    // [Field("manufacturer")]
-    // public string Manufacturer { get; set; }
+    [Field("Users")]
+    public Many<User> Users { get; set; }// ID korisnika koji je postavio ključ
+
 }

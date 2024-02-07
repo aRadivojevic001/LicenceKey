@@ -43,3 +43,36 @@ C:\Users\jacks\Desktop\USP - 2020202140 Aleksandar Radivojevic\LicenceKey\Licenc
 C:\Users\jacks\Desktop\USP - 2020202140 Aleksandar Radivojevic\LicenceKey\LicenceKey.Application\obj\Debug\net7.0\refint\LicenceKey.Application.dll
 C:\Users\jacks\Desktop\USP - 2020202140 Aleksandar Radivojevic\LicenceKey\LicenceKey.Application\obj\Debug\net7.0\LicenceKey.Application.pdb
 C:\Users\jacks\Desktop\USP - 2020202140 Aleksandar Radivojevic\LicenceKey\LicenceKey.Application\obj\Debug\net7.0\ref\LicenceKey.Application.dll
+C:\Users\jacks\Desktop\USP - 2020202140 Aleksandar Radivojevic\LicenceKey\LicenceKey.Application\obj\Debug\net7.0\LicenceKey.Application.sourcelink.json
+C:\Users\jacks\Desktop\USP - 2020202140 Aleksandar Radivojevic\MaperiIValidacija-BezKeyValidacije\LicenceKey\LicenceKey.Application\bin\Debug\net7.0\LicenceKey.Application.deps.json
+C:\Users\jacks\Desktop\USP - 2020202140 Aleksandar Radivojevic\MaperiIValidacija-BezKeyValidacije\LicenceKey\LicenceKey.Application\bin\Debug\net7.0\LicenceKey.Application.dll
+C:\Users\jacks\Desktop\USP - 2020202140 Aleksandar Radivojevic\MaperiIValidacija-BezKeyValidacije\LicenceKey\LicenceKey.Application\bin\Debug\net7.0\LicenceKey.Application.pdb
+C:\Users\jacks\Desktop\USP - 2020202140 Aleksandar Radivojevic\MaperiIValidacija-BezKeyValidacije\LicenceKey\LicenceKey.Application\bin\Debug\net7.0\LicenceKey.Domain.dll
+C:\Users\jacks\Desktop\USP - 2020202140 Aleksandar Radivojevic\MaperiIValidacija-BezKeyValidacije\LicenceKey\LicenceKey.Application\bin\Debug\net7.0\LicenceKey.Domain.pdb
+C:\Users\jacks\Desktop\USP - 2020202140 Aleksandar Radivojevic\MaperiIValidacija-BezKeyValidacije\LicenceKey\LicenceKey.Application\obj\Debug\net7.0\LicenceKey.Application.csproj.AssemblyReference.cache
+C:\Users\jacks\Desktop\USP - 2020202140 Aleksandar Radivojevic\MaperiIValidacija-BezKeyValidacije\LicenceKey\LicenceKey.Application\obj\Debug\net7.0\LicenceKey.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacks\Desktop\USP - 2020202140 Aleksandar Radivojevic\MaperiIValidacija-BezKeyValidacije\LicenceKey\LicenceKey.Application\obj\Debug\net7.0\LicenceKey.Application.AssemblyInfoInputs.cache
+C:\Users\jacks\Desktop\USP - 2020202140 Aleksandar Radivojevic\MaperiIValidacija-BezKeyValidacije\LicenceKey\LicenceKey.Application\obj\Debug\net7.0\LicenceKey.Application.AssemblyInfo.cs
+C:\Users\jacks\Desktop\USP - 2020202140 Aleksandar Radivojevic\MaperiIValidacija-BezKeyValidacije\LicenceKey\LicenceKey.Application\obj\Debug\net7.0\LicenceKey.Application.csproj.CoreCompileInputs.cache
+C:\Users\jacks\Desktop\USP - 2020202140 Aleksandar Radivojevic\MaperiIValidacija-BezKeyValidacije\LicenceKey\LicenceKey.Application\obj\Debug\net7.0\LicenceKey.Application.sourcelink.json
+C:\Users\jacks\Desktop\USP - 2020202140 Aleksandar Radivojevic\MaperiIValidacija-BezKeyValidacije\LicenceKey\LicenceKey.Application\obj\Debug\net7.0\LicenceKey.Application.csproj.CopyComplete
+C:\Users\jacks\Desktop\USP - 2020202140 Aleksandar Radivojevic\MaperiIValidacija-BezKeyValidacije\LicenceKey\LicenceKey.Application\obj\Debug\net7.0\LicenceKey.Application.dll
+C:\Users\jacks\Desktop\USP - 2020202140 Aleksandar Radivojevic\MaperiIValidacija-BezKeyValidacije\LicenceKey\LicenceKey.Application\obj\Debug\net7.0\refint\LicenceKey.Application.dll
+C:\Users\jacks\Desktop\USP - 2020202140 Aleksandar Radivojevic\MaperiIValidacija-BezKeyValidacije\LicenceKey\LicenceKey.Application\obj\Debug\net7.0\LicenceKey.Application.pdb
+C:\Users\jacks\Desktop\USP - 2020202140 Aleksandar Radivojevic\MaperiIValidacija-BezKeyValidacije\LicenceKey\LicenceKey.Application\obj\Debug\net7.0\ref\LicenceKey.Application.dll
+C:\Users\jacks\Desktop\Aleksandar Radivojevic 2020202140\Key Shop\LicenceKey\LicenceKey.Application\bin\Debug\net7.0\LicenceKey.Application.deps.json
+C:\Users\jacks\Desktop\Aleksandar Radivojevic 2020202140\Key Shop\LicenceKey\LicenceKey.Application\bin\Debug\net7.0\LicenceKey.Application.dll
+C:\Users\jacks\Desktop\Aleksandar Radivojevic 2020202140\Key Shop\LicenceKey\LicenceKey.Application\bin\Debug\net7.0\LicenceKey.Application.pdb
+C:\Users\jacks\Desktop\Aleksandar Radivojevic 2020202140\Key Shop\LicenceKey\LicenceKey.Application\bin\Debug\net7.0\LicenceKey.Domain.dll
+C:\Users\jacks\Desktop\Aleksandar Radivojevic 2020202140\Key Shop\LicenceKey\LicenceKey.Application\bin\Debug\net7.0\LicenceKey.Domain.pdb
+C:\Users\jacks\Desktop\Aleksandar Radivojevic 2020202140\Key Shop\LicenceKey\LicenceKey.Application\obj\Debug\net7.0\LicenceKey.Application.csproj.AssemblyReference.cache
+C:\Users\jacks\Desktop\Aleksandar Radivojevic 2020202140\Key Shop\LicenceKey\LicenceKey.Application\obj\Debug\net7.0\LicenceKey.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacks\Desktop\Aleksandar Radivojevic 2020202140\Key Shop\LicenceKey\LicenceKey.Application\obj\Debug\net7.0\LicenceKey.Application.AssemblyInfoInputs.cache
+C:\Users\jacks\Desktop\Aleksandar Radivojevic 2020202140\Key Shop\LicenceKey\LicenceKey.Application\obj\Debug\net7.0\LicenceKey.Application.AssemblyInfo.cs
+C:\Users\jacks\Desktop\Aleksandar Radivojevic 2020202140\Key Shop\LicenceKey\LicenceKey.Application\obj\Debug\net7.0\LicenceKey.Application.csproj.CoreCompileInputs.cache
+C:\Users\jacks\Desktop\Aleksandar Radivojevic 2020202140\Key Shop\LicenceKey\LicenceKey.Application\obj\Debug\net7.0\LicenceKey.Application.sourcelink.json
+C:\Users\jacks\Desktop\Aleksandar Radivojevic 2020202140\Key Shop\LicenceKey\LicenceKey.Application\obj\Debug\net7.0\LicenceKey.Application.csproj.CopyComplete
+C:\Users\jacks\Desktop\Aleksandar Radivojevic 2020202140\Key Shop\LicenceKey\LicenceKey.Application\obj\Debug\net7.0\LicenceKey.Application.dll
+C:\Users\jacks\Desktop\Aleksandar Radivojevic 2020202140\Key Shop\LicenceKey\LicenceKey.Application\obj\Debug\net7.0\refint\LicenceKey.Application.dll
+C:\Users\jacks\Desktop\Aleksandar Radivojevic 2020202140\Key Shop\LicenceKey\LicenceKey.Application\obj\Debug\net7.0\LicenceKey.Application.pdb
+C:\Users\jacks\Desktop\Aleksandar Radivojevic 2020202140\Key Shop\LicenceKey\LicenceKey.Application\obj\Debug\net7.0\ref\LicenceKey.Application.dll

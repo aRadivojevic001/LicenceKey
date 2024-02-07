@@ -34,3 +34,30 @@ C:\Users\jacks\Desktop\USP - 2020202140 Aleksandar Radivojevic\LicenceKey\Licenc
 C:\Users\jacks\Desktop\USP - 2020202140 Aleksandar Radivojevic\LicenceKey\LicenceKey.Domain\obj\Debug\net7.0\refint\LicenceKey.Domain.dll
 C:\Users\jacks\Desktop\USP - 2020202140 Aleksandar Radivojevic\LicenceKey\LicenceKey.Domain\obj\Debug\net7.0\LicenceKey.Domain.pdb
 C:\Users\jacks\Desktop\USP - 2020202140 Aleksandar Radivojevic\LicenceKey\LicenceKey.Domain\obj\Debug\net7.0\ref\LicenceKey.Domain.dll
+C:\Users\jacks\Desktop\USP - 2020202140 Aleksandar Radivojevic\LicenceKey\LicenceKey.Domain\obj\Debug\net7.0\LicenceKey.Domain.sourcelink.json
+C:\Users\jacks\Desktop\USP - 2020202140 Aleksandar Radivojevic\MaperiIValidacija-BezKeyValidacije\LicenceKey\LicenceKey.Domain\bin\Debug\net7.0\LicenceKey.Domain.deps.json
+C:\Users\jacks\Desktop\USP - 2020202140 Aleksandar Radivojevic\MaperiIValidacija-BezKeyValidacije\LicenceKey\LicenceKey.Domain\bin\Debug\net7.0\LicenceKey.Domain.dll
+C:\Users\jacks\Desktop\USP - 2020202140 Aleksandar Radivojevic\MaperiIValidacija-BezKeyValidacije\LicenceKey\LicenceKey.Domain\bin\Debug\net7.0\LicenceKey.Domain.pdb
+C:\Users\jacks\Desktop\USP - 2020202140 Aleksandar Radivojevic\MaperiIValidacija-BezKeyValidacije\LicenceKey\LicenceKey.Domain\obj\Debug\net7.0\LicenceKey.Domain.csproj.AssemblyReference.cache
+C:\Users\jacks\Desktop\USP - 2020202140 Aleksandar Radivojevic\MaperiIValidacija-BezKeyValidacije\LicenceKey\LicenceKey.Domain\obj\Debug\net7.0\LicenceKey.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacks\Desktop\USP - 2020202140 Aleksandar Radivojevic\MaperiIValidacija-BezKeyValidacije\LicenceKey\LicenceKey.Domain\obj\Debug\net7.0\LicenceKey.Domain.AssemblyInfoInputs.cache
+C:\Users\jacks\Desktop\USP - 2020202140 Aleksandar Radivojevic\MaperiIValidacija-BezKeyValidacije\LicenceKey\LicenceKey.Domain\obj\Debug\net7.0\LicenceKey.Domain.AssemblyInfo.cs
+C:\Users\jacks\Desktop\USP - 2020202140 Aleksandar Radivojevic\MaperiIValidacija-BezKeyValidacije\LicenceKey\LicenceKey.Domain\obj\Debug\net7.0\LicenceKey.Domain.csproj.CoreCompileInputs.cache
+C:\Users\jacks\Desktop\USP - 2020202140 Aleksandar Radivojevic\MaperiIValidacija-BezKeyValidacije\LicenceKey\LicenceKey.Domain\obj\Debug\net7.0\LicenceKey.Domain.sourcelink.json
+C:\Users\jacks\Desktop\USP - 2020202140 Aleksandar Radivojevic\MaperiIValidacija-BezKeyValidacije\LicenceKey\LicenceKey.Domain\obj\Debug\net7.0\LicenceKey.Domain.dll
+C:\Users\jacks\Desktop\USP - 2020202140 Aleksandar Radivojevic\MaperiIValidacija-BezKeyValidacije\LicenceKey\LicenceKey.Domain\obj\Debug\net7.0\refint\LicenceKey.Domain.dll
+C:\Users\jacks\Desktop\USP - 2020202140 Aleksandar Radivojevic\MaperiIValidacija-BezKeyValidacije\LicenceKey\LicenceKey.Domain\obj\Debug\net7.0\LicenceKey.Domain.pdb
+C:\Users\jacks\Desktop\USP - 2020202140 Aleksandar Radivojevic\MaperiIValidacija-BezKeyValidacije\LicenceKey\LicenceKey.Domain\obj\Debug\net7.0\ref\LicenceKey.Domain.dll
+C:\Users\jacks\Desktop\Aleksandar Radivojevic 2020202140\Key Shop\LicenceKey\LicenceKey.Domain\bin\Debug\net7.0\LicenceKey.Domain.deps.json
+C:\Users\jacks\Desktop\Aleksandar Radivojevic 2020202140\Key Shop\LicenceKey\LicenceKey.Domain\bin\Debug\net7.0\LicenceKey.Domain.dll
+C:\Users\jacks\Desktop\Aleksandar Radivojevic 2020202140\Key Shop\LicenceKey\LicenceKey.Domain\bin\Debug\net7.0\LicenceKey.Domain.pdb
+C:\Users\jacks\Desktop\Aleksandar Radivojevic 2020202140\Key Shop\LicenceKey\LicenceKey.Domain\obj\Debug\net7.0\LicenceKey.Domain.csproj.AssemblyReference.cache
+C:\Users\jacks\Desktop\Aleksandar Radivojevic 2020202140\Key Shop\LicenceKey\LicenceKey.Domain\obj\Debug\net7.0\LicenceKey.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacks\Desktop\Aleksandar Radivojevic 2020202140\Key Shop\LicenceKey\LicenceKey.Domain\obj\Debug\net7.0\LicenceKey.Domain.AssemblyInfoInputs.cache
+C:\Users\jacks\Desktop\Aleksandar Radivojevic 2020202140\Key Shop\LicenceKey\LicenceKey.Domain\obj\Debug\net7.0\LicenceKey.Domain.AssemblyInfo.cs
+C:\Users\jacks\Desktop\Aleksandar Radivojevic 2020202140\Key Shop\LicenceKey\LicenceKey.Domain\obj\Debug\net7.0\LicenceKey.Domain.csproj.CoreCompileInputs.cache
+C:\Users\jacks\Desktop\Aleksandar Radivojevic 2020202140\Key Shop\LicenceKey\LicenceKey.Domain\obj\Debug\net7.0\LicenceKey.Domain.sourcelink.json
+C:\Users\jacks\Desktop\Aleksandar Radivojevic 2020202140\Key Shop\LicenceKey\LicenceKey.Domain\obj\Debug\net7.0\LicenceKey.Domain.dll
+C:\Users\jacks\Desktop\Aleksandar Radivojevic 2020202140\Key Shop\LicenceKey\LicenceKey.Domain\obj\Debug\net7.0\refint\LicenceKey.Domain.dll
+C:\Users\jacks\Desktop\Aleksandar Radivojevic 2020202140\Key Shop\LicenceKey\LicenceKey.Domain\obj\Debug\net7.0\LicenceKey.Domain.pdb
+C:\Users\jacks\Desktop\Aleksandar Radivojevic 2020202140\Key Shop\LicenceKey\LicenceKey.Domain\obj\Debug\net7.0\ref\LicenceKey.Domain.dll
